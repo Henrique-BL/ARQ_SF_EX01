@@ -1,4 +1,4 @@
-import { salvarNoLocalStorage, salvarMediasTxt } from "../dados/dados.js";
+import { salvarNoLocalStorage, salvarMediasTxt, limparMediasLocalStorage } from "../dados/dados.js";
 
 //Camada de interação entre as camadas
 
